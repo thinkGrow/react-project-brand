@@ -25,14 +25,12 @@ button {
 .container {
   margin: 0 auto;
   max-width: 1280px;
-} 
+}
 
 nav {
   display: flex;
   justify-content: space-between;
-  max-width: 1280px;
-  margin: 0 auto;
-  height: 42px;
+  height: 72px;
   align-items: center;
 }
 
